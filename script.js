@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Hello! Welcome to my webpage.");
+    alert("Thank you for joining FitZone Gym!");
 }
