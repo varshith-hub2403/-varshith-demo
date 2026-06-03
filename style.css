@@ -1,11 +1,11 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: #f7eeee;
+    background-color: #f4f4f4;
 }
 
 h1 {
-    color: blue;
+    color: darkred;
 }
 
 p {
@@ -18,7 +18,7 @@ img {
 
 button {
     padding: 10px 20px;
-    background-color: green;
+    background-color: darkred;
     color: white;
     border: none;
     cursor: pointer;
